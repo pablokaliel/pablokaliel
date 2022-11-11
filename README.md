@@ -1,8 +1,8 @@
-<h1 align="center"> Hello👋!</h1>
+<h1 align="center"> Hello!</h1>
 
 <hr>
 
-- ⚡ <strong> Pleasure, my name is Pablo and I live in Brazil. I'm 21 years old and I'm studying ReactJS/React-Native</strong>
+-<strong> Pleasure, my name is Pablo and I live in Brazil. I'm 21 years old and I'm studying ReactJS/React-Native</strong>
 
 <hr>
 
