@@ -17,8 +17,8 @@
 <hr>
 <h2> <strong> Languages Used </strong> </h2>
 <div align="center">
- <img width="45%" height="180em"  src="https://github-readme-stats.vercel.app/api?username=pablokaliel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img width="45%" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablokaliel&layout=compact&langs_count=7&theme=tokyonight"/>
+ <img width="45%" height="180em"  src="https://github-readme-stats.vercel.app/api?username=pablokaliel&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+ <img width="45%" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablokaliel&layout=compact&langs_count=7&theme=great-gatsby"/>
  </div>
 </div>
 
