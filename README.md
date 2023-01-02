@@ -17,8 +17,8 @@
 <hr>
 <h2> <strong> Languages Used </strong> </h2>
 <div align="center">
- <img width="45%" height="180em"  src="https://github-readme-stats.vercel.app/api?username=pablokaliel&show_icons=true&theme=great-gatsby&bg_color=80,000000,050505,14052d,260c52,2f0f65,5929a8include_all_commits=true&count_private=true"/>
- <img width="45%" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablokaliel&layout=compact&langs_count=7&bg_color=80,000000,050505,14052d,260c52,2f0f65,5929a8&theme=great-gatsby"/>
+ <img width="45%" height="180em"  src="https://github-readme-stats.vercel.app/api?username=pablokaliel&show_icons=true&theme=great-gatsby&hide_border=true&title_color=a2f6ff&text_color=218ece&icon_color=ce21c5&bg_color=80,000000,050505,14052d,260c52,2f0f65,5929a8include_all_commits=true&count_private=true"/>
+ <img width="45%" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablokaliel&hide_border=true&text_color=218ece&title_color=a2f6ff&layout=compact&langs_count=7&bg_color=80,000000,050505,14052d,260c52,2f0f65,5929a8&theme=great-gatsby"/>
  </div>
 </div>
 
