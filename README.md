@@ -14,7 +14,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=40E0D0&size=35&center=true&v
     alt="Pablo Kaliel github stats"
   />
   <img
-    width="41%"
+    width="49%"
     height="195px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablokaliel&layout=compact&hide_border=true&title_color=008B8B&text_color=1E90FF&bg_color=0d1117"
   />
