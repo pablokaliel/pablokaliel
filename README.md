@@ -1,7 +1,5 @@
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=header"
-/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Pablo%20Kaliel&fontAlign=40&fontAlignY=30&color=40E0D0&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=75#gh-light-mode-only" alt="Header" width = "100%"/>
+
 
 [![Typing
 SVG](https://readme-typing-svg.herokuapp.com/?color=40E0D0&size=35&center=true&vCenter=true&width=1000&lines=Preasure,+my+name+is+Pablo+Kaliel;I'm+21+years+old;I'm+from+Brazil;I'm+a+student+of+Systems+Analysis+and+Development;And+i'm+studyng+React/JS+React/Native;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -65,7 +63,5 @@ graph](https://github-readme-activity-graph.cyclic.app/graph?username=pablokalie
   <br />
 </div>
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=footer"
-/>
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=40E0D0#gh-light-mode-only" alt="Footer" width = "100%"/>
+
