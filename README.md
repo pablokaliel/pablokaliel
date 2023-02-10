@@ -19,7 +19,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=40E0D0&size=35&center=true&v
 </div>
 
 [![Ashutosh's github activity
-graph](https://github-readme-activity-graph.cyclic.app/graph?username=pablokaliel&bg_color=0d1117&color=5f9ea0&line=00ffff&area_color=008080&point=fcfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+graph](https://github-readme-activity-graph.cyclic.app/graph?username=pablokaliel&bg_color=0d1117&color=5f9ea0&line=00ffff&area_color=008080&point=fcfcfc&area=true&hide_border=true)]
 
 <p align="center">
   <img
