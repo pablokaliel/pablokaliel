@@ -6,13 +6,13 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=40E0D0&size=35&center=true&v
 
 <div align="center">
   <img
-    width="45%"
+    width="50%"
     height="195px"
     src="https://github-readme-stats.vercel.app/api?username=pablokaliel&show_icons=true&count_private=true&hide_border=true&title_color=008B8B&icon_color=00FFFF&text_color=1E90FF&bg_color=0d1117"
     alt="Pablo Kaliel github stats"
   />
   <img
-    width="45%"
+    width="49%"
     height="195px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablokaliel&layout=compact&hide_border=true&title_color=008B8B&text_color=1E90FF&bg_color=0d1117"
   />
